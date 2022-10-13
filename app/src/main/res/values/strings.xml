@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="convertidor">Convertir</string>
+    <string name="cantidadAconvertir">Cantidad a convertir</string>
+    <string name="DecimalEntero">1.00</string>
+    <string name="tema">Convertidor</string>
+    <!-- Menu para la conversion uno. -->
+    <string-array name="conversion">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Pesos</item>
+    </string-array>
+    <!-- Menu para la conversion dos. -->
+    <string-array name="conversion2">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Pesos</item>
+    </string-array>
+</resources>
